@@ -1,3 +1,4 @@
+include ':optionmenu'
 include ':permission'
 include ':app'
 rootProject.name = "hello"
