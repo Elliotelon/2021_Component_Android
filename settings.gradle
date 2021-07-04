@@ -1,3 +1,4 @@
+include ':startactivity'
 include ':activitylifecycle'
 include ':popupmenu'
 include ':contextmenu'
