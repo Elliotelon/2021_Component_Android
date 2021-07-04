@@ -1,3 +1,4 @@
+include ':contextmenu'
 include ':optionmenu'
 include ':permission'
 include ':app'
