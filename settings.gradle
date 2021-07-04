@@ -1,3 +1,4 @@
+include ':popupmenu'
 include ':contextmenu'
 include ':optionmenu'
 include ':permission'
