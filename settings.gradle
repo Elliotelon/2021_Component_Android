@@ -1,3 +1,4 @@
+include ':activitydata'
 include ':onactivityresult'
 include ':startactivity'
 include ':activitylifecycle'
