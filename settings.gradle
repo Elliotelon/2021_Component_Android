@@ -1,3 +1,4 @@
+include ':toast'
 include ':activityaction'
 include ':activityapp3'
 include ':activityapp1'
