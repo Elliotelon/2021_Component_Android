@@ -1,3 +1,6 @@
+include ':activityapp3'
+include ':activityapp1'
+include ':activityapp2'
 include ':activityobject'
 include ':activitydata'
 include ':onactivityresult'
