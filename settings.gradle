@@ -1,3 +1,4 @@
+include ':notification'
 include ':choicelistdialog'
 include ':listdialog'
 include ':dialog'
