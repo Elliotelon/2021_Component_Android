@@ -1,3 +1,4 @@
+include ':pendingintent'
 include ':notification'
 include ':choicelistdialog'
 include ':listdialog'
