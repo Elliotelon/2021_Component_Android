@@ -1,3 +1,4 @@
+include ':messagenotification'
 include ':stylenotification'
 include ':pendingintent'
 include ':notification'
