@@ -1,3 +1,4 @@
+include ':ipc'
 include ':service'
 include ':systemmessage'
 include ':brapp2'
