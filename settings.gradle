@@ -1,3 +1,4 @@
+include ':systemmessage'
 include ':brapp2'
 include ':brapp1'
 include ':runonuithread'
