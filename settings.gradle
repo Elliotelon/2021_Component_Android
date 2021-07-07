@@ -1,3 +1,4 @@
+include ':activityanimation'
 include ':fragmentanimation'
 include ':dialogfragment'
 include ':listfragment'
