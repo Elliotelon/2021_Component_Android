@@ -1,3 +1,4 @@
+include ':fragmentview'
 include ':fragmentlifecycle'
 include ':fragment'
 include ':ipc'
