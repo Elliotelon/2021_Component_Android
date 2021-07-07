@@ -1,3 +1,4 @@
+include ':listfragment'
 include ':activitycontroller'
 include ':fragmentview'
 include ':fragmentlifecycle'
