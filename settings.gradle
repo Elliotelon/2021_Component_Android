@@ -1,3 +1,4 @@
+include ':runonuithread'
 include ':handlermessage'
 include ':handler'
 include ':thread'
