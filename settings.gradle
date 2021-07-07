@@ -1,3 +1,4 @@
+include ':handler'
 include ':thread'
 include ':messagenotification'
 include ':stylenotification'
