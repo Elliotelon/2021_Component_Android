@@ -1,3 +1,4 @@
+include ':dialogfragment'
 include ':listfragment'
 include ':activitycontroller'
 include ':fragmentview'
